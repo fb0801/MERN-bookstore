@@ -19,3 +19,7 @@ https://www.toptal.com/developers/gitignore/
 https://www.youtube.com/watch?v=-42K44A1oMA&pp=ygUPbWVybiBib29rIHN0b3Jl
 
 original repo -> https://github.com/mohammad-taheri1/Book-Store-MERN-Stack
+
+https://www.mongodb.com/
+
+https://www.mongodb.com/basics/create-database
