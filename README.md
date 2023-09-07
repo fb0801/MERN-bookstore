@@ -7,7 +7,9 @@ Creating a bookstore with MongoDB Express React and Node
 ## Changes made:
 
 
-## Issues:
+## Issues/Lesson learnt:
+
+- ensure elements are spelt correctly
 
 
 ## Resources used: 
