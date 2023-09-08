@@ -12,7 +12,7 @@ Creating a bookstore with MongoDB Express React and Node
 - ensure elements are spelt correctly
 
 
-## Resources used: 
+## Resources/Tools used: 
 
 https://www.toptal.com/developers/gitignore/
 
@@ -25,3 +25,6 @@ https://www.mongodb.com/
 https://www.mongodb.com/basics/create-database
 
 Postman
+
+MongoDB, Express, React, Node
+
