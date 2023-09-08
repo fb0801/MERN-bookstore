@@ -11,6 +11,8 @@ Creating a bookstore with MongoDB Express React and Node
 
 - ensure elements are spelt correctly
 
+- ensure correct element is being referenced
+
 
 ## Resources/Tools used: 
 
