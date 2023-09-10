@@ -30,3 +30,7 @@ Postman
 
 MongoDB, Express, React, Node
 
+https://vitejs.dev/guide/
+
+https://tailwindcss.com/docs/guides/vite
+
