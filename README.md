@@ -6,6 +6,8 @@ Creating a bookstore with MongoDB Express React and Node
 
 ## Changes made:
 
+Added a back btn for deleting a book
+
 
 ## Issues/Lesson learnt:
 
@@ -33,4 +35,6 @@ MongoDB, Express, React, Node
 https://vitejs.dev/guide/
 
 https://tailwindcss.com/docs/guides/vite
+
+https://stackoverflow.com/questions/52039083/handle-back-button-with-react-router
 
